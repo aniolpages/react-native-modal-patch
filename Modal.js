@@ -59,7 +59,7 @@ class iOSModal extends React.Component {
   }
 
   UNSAFE_componentWillReceiveProps(nextProps) {
-    Modal._confirmProps(nextProps);
+    // Modal._confirmProps(nextProps);
   }
 
   static _confirmProps(props) {
