@@ -34,9 +34,9 @@ class iOSModal extends React.Component {
     rootTag: PropTypes.number,
   };
 
-  constructor(props: Props) {
+  constructor(props) {
     super(props);
-    Modal._confirmProps(props);
+    // Modal._confirmProps(props);
     this._identifier = uniqueModalIdentifier++;
   }
 
