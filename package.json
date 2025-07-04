@@ -12,9 +12,9 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.76.0"
+    "react-native": "^0.79.0"
   },
   "devDependencies": {
-    "react-native": "^0.76.0"
+    "react-native": "^0.79.0"
   }
 }
